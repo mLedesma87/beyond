@@ -1,0 +1,7 @@
+{
+  "name": "beyond_android",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
