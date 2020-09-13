@@ -1,0 +1,11 @@
+.search-bg{
+    background: rgb(146,73,132);
+    background: linear-gradient(180deg, rgba(146,73,132,1) 9%, rgba(119,59,107,1) 18%, rgba(91,45,81,1) 36%, rgba(0,0,0,1) 100%);
+    margin-top: -20px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+}

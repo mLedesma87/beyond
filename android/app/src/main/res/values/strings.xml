@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Beyond</string>
+    <string name="title_activity_main">Beyond</string>
+    <string name="package_name">com.manuledesma.beyond</string>
+    <string name="custom_url_scheme">com.manuledesma.beyond</string>
+</resources>

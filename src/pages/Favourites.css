@@ -1,0 +1,27 @@
+.favourites-page ion-content {
+  max-height: calc(100% - 56px);
+}
+
+.favourites-page ion-card {
+    max-height: 250px;
+}
+
+.favourites-page ion-card-header {
+    position: absolute;
+    background: rgb(0,0,0,.5);
+    width: 100%;
+    color: #e4e4e4;
+    bottom: 0;
+}
+
+.favourites-page ion-card-title {
+    color: #e4e4e4;
+}
+
+.favourites-page ion-card-subtitle {
+    color: #e4e4e4;
+}
+
+.action-menu .action-sheet-group > button{
+    color: #e4e4e4
+}
