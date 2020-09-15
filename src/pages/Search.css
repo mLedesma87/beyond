@@ -1,11 +1,26 @@
 .search-bg{
     background: rgb(146,73,132);
     background: linear-gradient(180deg, rgba(146,73,132,1) 9%, rgba(119,59,107,1) 18%, rgba(91,45,81,1) 36%, rgba(0,0,0,1) 100%);
-    margin-top: -20px;
     height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
     flex-direction: column;
+}
+
+#search-input {
+    border: 3px solid rgba(250, 110, 224, 0.3);
+    border-radius: 20px;
+    padding: 15px;
+    flex-grow: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #e4e4e4;
+}
+
+.ripple-parent {
+    position: relative;
+    overflow: hidden;
 }
